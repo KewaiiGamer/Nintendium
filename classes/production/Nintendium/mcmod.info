@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nintendium",
+  "name": "Nintendium",
+  "description": "Adds cool stuff based around nintendium. A indestructible ore that not even a nuke can blow up.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["KewaiiGamer"],
+  "credits": "Modded T - Textures",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
